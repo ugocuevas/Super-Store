@@ -14,5 +14,5 @@ This repository contains:
 To view the dataset, you can use Google Sheets, Microsoft Excel Desktop/Online or any spreadsheet software. 
 To view any of the Power BI files, you need to download Power BI Desktop on Windows system, preferably Windows 10. 
 -If you have Windows 10 and above, I recommend that you download Power BI Desktop from the Windows Store
--If you are using a version below Windows 10, you can download the app from [here] (https://powerbi.microsoft.com/en-us/downloads/) 
+-If you are using a version below Windows 10, you can download the app from [here](https://powerbi.microsoft.com/en-us/downloads/) 
 
